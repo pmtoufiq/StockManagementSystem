@@ -1,0 +1,36 @@
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+E:\Toufiqur Rahman\StockManagementSystemProject\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+C:\Users\Web App Develop .Net\Desktop\amn\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
+D:\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+D:\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+D:\StockManagement\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+D:\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+D:\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+D:\StockManagement\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\StockManagement\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\bin\StockManagementSystemProject.dll.config
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\bin\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\bin\StockManagementSystemProject.pdb
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.csprojResolveAssemblyReference.cache
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.dll
+G:\Tutorial - IT\BITM .Net 48\Toufiqur Rahman\StockManagementSystem\StockManagementSystemProject\obj\Debug\StockManagementSystemProject.pdb
